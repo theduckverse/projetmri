@@ -1,10 +1,10 @@
 # Project MRI
 
-Analyze any unfamiliar codebase in minutes.
+Understand any unfamiliar codebase in minutes.
 
 Project MRI helps engineers understand large repositories by automatically identifying:
 
-- 📍 The best files to read first
+- 📍 The 5 files to read first
 - 🏗️ High-level architecture
 - ⚠️ Technical debt hotspots
 - 📊 Repository health score
@@ -20,6 +20,8 @@ Project MRI helps engineers understand large repositories by automatically ident
 
 ## Try it
 
+No installation required. Just upload a ZIP and start exploring.
+
 🌐 https://projectmri.com
 
-I'm actively looking for feedback from software engineers. If you try it, I'd love to hear what works and what doesn't.
+I'm actively looking for brutally honest feedback from software engineers. If something is confusing, inaccurate, or missing, I want to know.
